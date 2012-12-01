@@ -1,2 +1,1 @@
-Bienvenido a mi repositorio de Github
-[editado]
+Bienvenido a mi repositorio de Github++++++
