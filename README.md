@@ -1,3 +1,2 @@
-Bienvenido a 			mi repositorio de Github
-jksadkjsad
-jangla
+	....Bienvenido a mi repositorio de Github
+
